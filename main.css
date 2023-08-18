@@ -1,0 +1,91 @@
+*{
+    /*border: solid red 2px;*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head h1{
+    position: relative;
+    left:400px;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+.bodyweb{
+    background-color: rgb(214, 214, 210);
+    height: 2350px;
+}
+.boxtop {
+    background-color: white;
+    width: 550px;
+    height: 50px;
+}
+.date {
+    position: absolute;
+    right: 2%;
+    top:2%;
+    color: rgb(161, 159, 159);
+    opacity: 0.8;
+}
+.NamePhoto {
+    position:relative;
+    font-size: larger;
+    top:10px;
+    left:10px;
+}
+.box {
+    width: 550px;
+    height: 525px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    right:-400px;
+    top:30px;
+    margin-top: 30px;
+    box-shadow: 15px 15px 15px rgb(173, 170, 170);
+    
+   
+}
+.box2 {
+    width: 550px;
+    height: 525px;
+    background-color: white;
+    position: relative;
+    margin-top: 60px;
+    right:-400px;
+    box-shadow: 15px 15px 15px rgb(173, 170, 170);
+}
+.box3 {
+    width: 550px;
+    height: 525px;
+    background-color: white;
+    position: relative;
+    margin-top: 60px;
+    right:-400px;
+    box-shadow: 15px 15px 15px rgb(173, 170, 170);
+
+}
+.box4 {
+    width: 550px;
+    height: 525px;
+    background-color: white;
+    position: relative;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    right:-400px;
+    box-shadow: 15px 15px 15px rgb(173, 170, 170);
+}
+img{
+    height: 390px;
+    width: 549px;
+}
+.photo {
+    height: 75%;
+    width: 550px;
+    
+}
+.boxfooter {
+    letter-spacing: 0.2px;
+    position: relative;
+    top:15px;
+    right:-15px;
+}
+    
